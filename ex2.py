@@ -26,6 +26,10 @@ hour_pattern = re.compile(r'^([01]?[0-9]|2[0-3]):[0-5][0-9]$')
 
 nltk.download('brown')
 
+# TODO: finish reading the code
+# create a new class/named tuple called sentence with first token, body, and end token fields.
+# check that everything is ok and match prior results.
+
 
 class Mle():
     """ this class represent most likely tag model. 
