@@ -1,3 +1,4 @@
+# Bigram Hidden Markov Model For Part Of Speech Tagging
 Developed Bigram Hidden Markov Models for Part-of-Speech tagging, starting from scratch.
 Implemented diverse smoothing techniques and conducted an analysis of the results.
 
